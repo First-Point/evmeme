@@ -51,3 +51,8 @@ This project uses:
 ![Ekran Resmi 2024-11-16 22 53 29](https://github.com/user-attachments/assets/fbcdcddb-472f-451a-9be5-6935dd270916)
 ![Ekran Resmi 2024-11-16 22 57 38](https://github.com/user-attachments/assets/0e9ea2d7-3472-45f1-9125-6e327136d8ba)
 ![Ekran Resmi 2024-11-16 22 54 09](https://github.com/user-attachments/assets/9cb1f5e3-4f44-48b0-867b-79a01bd9bc9b)
+
+## License
+This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+Commercial use is prohibited.
+See the LICENSE file for more details.
